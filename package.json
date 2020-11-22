@@ -1,0 +1,25 @@
+{
+  "name": "best_pkg_use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemKlinkov/best_pkg_use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemKlinkov/best_pkg_use/issues"
+  },
+  "homepage": "https://github.com/ArtemKlinkov/best_pkg_use#readme",
+  "devDependencies": {
+    "@artemklinkov/best_pkg": "^1.0.4"
+  },
+  "dependencies": {
+    "husky": "^4.3.0"
+  }
+}
